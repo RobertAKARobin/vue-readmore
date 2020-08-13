@@ -1,0 +1,10 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.trimAutoWhitespace": true,
+    "files.associations": {
+        "*.css": "postcss"
+    },
+    "files.insertFinalNewline": false,
+    "stylelint.enable": true
+}
